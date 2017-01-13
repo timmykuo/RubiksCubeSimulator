@@ -51,7 +51,7 @@ This cube simulator allows you to create any sized cube, a standard sized cube, 
    
    That's a wrap for the environment set up.  You can now clone the repository through:
    ```
-   git clone git@github.com:timmykuo/RubiksCubeSimulator.git
+   git clone https://github.com/timmykuo/RubiksCubeSimulator.git
    ```
 # API Reference
    Ant creates JavaDoc htmls for API reference.  Run the following command in your terminal:
