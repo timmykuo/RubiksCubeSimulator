@@ -49,7 +49,7 @@ This cube simulator allows you to create any sized cube, a standard sized cube, 
    export PATH=“$PATH:$ANT_HOME/bin:$JAVA_HOME/bin”
    ```
    
-   That's a wrap for the environment set up.  You can now clone the repository through:
+   That's a wrap for the environment set up.  You can now clone and run ant on the repository through:
    ```
    git clone https://github.com/timmykuo/RubiksCubeSimulator.git
    ```
